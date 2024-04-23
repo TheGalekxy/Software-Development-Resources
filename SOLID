@@ -1,0 +1,24 @@
+SOLID - https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/
+
+- The Single Responsibility Principle
+- The Open-Closed Principle
+- The Liskov Substitution Principle
+- The Interface Segregation Principle
+- The Dependency Inversion Principle
+
+Single Responsibility Principle
+- A class should only do one thing and therefore should only have a single reason to change
+
+Open-Close Principle
+- classes should be open for extension and closed to modification
+- We should be able to add new functionality without touching the existing code for the class. Modifing existing code has the potential to create bugs
+
+Liskov Substitution Principle
+- The Liskov Substitution Principle states that subclasses should be substitutable for their base classes
+- If class B is a subclass of class A, we should be able to pass an object of class B to any method that expects an object of class A and the method should not give any weird output
+
+Interface Segregation Principle
+- The principle states that many client-specific interfaces are better than one general-purpose interface. Clients should not be forced to implement a function they do no need
+
+Dependency Inversion Principle
+- The Dependency Inversion principle states that our classes should depend upon interfaces or abstract classes instead of concrete classes and functions.
