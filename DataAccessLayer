@@ -1,0 +1,6 @@
+Data Access Layer (AKA Persistance Layer)
+- https://www.geeksforgeeks.org/data-access-layer/
+- https://stackoverflow.com/questions/16016023/what-is-the-use-of-a-persistence-layer-in-any-application
+
+- Layer in an application that provides easy and simplified access to data stored in persistant storage
+- It's a layer that exists between the Business Logic Layers (https://www.geeksforgeeks.org/business-logic-layer/) and the storage layer
